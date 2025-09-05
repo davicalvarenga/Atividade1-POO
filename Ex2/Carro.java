@@ -66,7 +66,7 @@ public class Carro {
         carro1.setVelocidadeAtual(0);
 
         // Criando segundo carro usando construtor com parâmetros
-        Carro carro2 = new Carro("Honda", "Civic", 2023, 30);
+        Carro carro2 = new Carro("Ford", "Ka", 2023, 30);
 
         // Testando métodos do primeiro carro
         System.out.println("=== CARRO 1 ===");
